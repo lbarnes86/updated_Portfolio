@@ -1,0 +1,114 @@
+body {
+    font-weight: bolder;
+    font-family: "Lato", sans-serif;
+    background-color: aliceblue;
+    color: darkgrey;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.jumbotron {
+    font-weight: bolder;
+    font-family: "Lato", sans-serif;
+    background-color: aliceblue;
+    color: darkgrey;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    background-color: white;
+    padding-bottom: .5em;
+    
+}
+a:hover {
+    color: black;
+}
+
+.container {
+    text-align: center;
+}
+h3 {
+    font-style: italic;
+}
+
+h5 {
+    font-weight: bolder;
+    color: rgb(49, 47, 47);
+    font-style: italic;
+}
+
+img {
+    text-align: center;
+}
+
+
+a {
+    color:rgb(14, 84, 177);
+}
+ p {
+    color: black; 
+    text-align: left;
+ }
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:darkgray;
+    
+  }
+  .footnote {
+    color: #999;
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .contact-btn {
+    text-align: center;
+}
+
+  .navbar {
+    margin-bottom: 100px;
+  }
+  
+  .logo {
+    height: 80px;
+    width: 80px;
+  }
+  
+  .title {
+      color: black;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 300;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .card-title {
+      color: grey;
+      font-weight: bolder;
+      text-align: left;
+  }
+  
+  
+
+  .subtitle {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 300;
+  }
+  
+  .sub-subtitle {
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 400;
+  }
+
+  .btn{
+    color: white;
+    background-color: rgb(1, 73, 167);
+    border: cadetblue;
+}
