@@ -12,6 +12,7 @@
 
 - [Description](#description)
 - [Usage](#usage)
+- [Dependencies](#dependencies)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -26,9 +27,17 @@ Feel free to use this as a template for your own portfolio
 
 ```
 
+## Dependencies
+
+- [JavaScript](https://www.javascript.com/)  
+- [CSS](https://www.w3schools.com/css/css_intro.asp) 
+- [HTML](https://html.com/) 
+
 ## Contributors
 
-- Lloyd F Barnes 
+[![GitHub license](https://img.shields.io/badge/Made%20by-Lloyd%20Barnes-ab8c9b?style=flat&logo=github)](https://github.com/lbarnes86)
 
 ## License
-Made by Lloyd. Copyright © | 2020
+none
+
+Copyright© 2020 [Lloyd Barnes](https://lbarnes86.github.io/updated_Portfolio/)
